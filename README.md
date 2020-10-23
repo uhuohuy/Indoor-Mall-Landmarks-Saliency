@@ -17,11 +17,7 @@ The algorithm is based on GPTIPS Symbolic Machine Learning Platform
 for MATLAB (https://sites.google.com/site/gptips4matlab/home)
 
 ## Data
-Our data is under "data/" folder. 
-Lists of "data/scencePic" folder are navigation scence images.
-The sheet of "featuresAttributes" in landmarkDataSets.xlsx file is 
-landmarks attributes value, and the sheet of "questionnairesResult" 
-is questionnaire results from volunteers.
+Our data is under "data/" folder, in which all the scene images with marked landmarks are listed. Detailed information of each landmark is given in landmarkDataSets.xlsx
 
 ## Usage
 The main function is in Main_fold_5cross_validation.m. Just run this file to get the result.
