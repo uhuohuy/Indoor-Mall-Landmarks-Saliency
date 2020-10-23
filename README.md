@@ -1,5 +1,5 @@
 # Data-driven approach to learning salience models of indoor landmarks by using genetic programming
-By Xuke, Lei Ding, Jianga Shang, Hongchao Fan, Tessio Novack, Alexey Noskov, Alexander
+By Xuke HU, Lei Ding, Jianga Shang, Hongchao Fan, Tessio Novack, Alexey Noskov, Alexander
 
 ## Introduction
 
