@@ -11,7 +11,7 @@ This accuracy rate is considerably higher than the ones achieved
 by conventional linear models. To learn more, please refer to our paper(https://www.tandfonline.com/doi/full/10.1080/17538947.2019.1701109)
 
 ## Code
-Our code is under "code/" folder. 
+The code is under "code/" folder. 
 The code is implemented by Matlab R2018a.
 The algorithm is based on GPTIPS Symbolic Machine Learning Platform 
 for MATLAB (https://sites.google.com/site/gptips4matlab/home)
