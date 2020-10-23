@@ -24,7 +24,7 @@ landmarks attributes value, and the sheet of "questionnairesResult"
 is questionnaire results from volunteers.
 
 ## Usage
-The main function is Main_fold_5cross_validation.m, you could run the main function.
+The main function is in Main_fold_5cross_validation.m. Just run this file to get the result.
 
 ## Contact
 Comments, queries and bug reports are appreciated.
