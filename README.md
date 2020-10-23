@@ -28,4 +28,4 @@ The main function is Main_fold_5cross_validation.m, you could run the main funct
 
 ## Contact
 Comments, queries and bug reports are appreciated.
-Email: mylovedinglei@gmail.com
+Email: xuke.hu1386@gmail.com or mylovedinglei@gmail.com
